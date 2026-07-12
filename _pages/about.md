@@ -31,5 +31,5 @@ Hi! I am a postdoc in the [Picower Institute for Learning and Memory](https://pi
 
 Previously, I was a postdoc in the [Department of Neurology](https://med.virginia.edu/neurology/) at the [University of Virginia](https://www.virginia.edu), where I was advised by [Dr. Jaideep Kapur](https://www.kapurlab.com/people.html). I obtained my Ph.D. in Electrical Engineering under [Scott Acton](https://engineering.virginia.edu/faculty/scott-t-acton).
 
-
+I am interested in understanding how complex neural dynamics, such as traveling waves, emerge from large-scale brain networks by integrating AI and neuroscience. My PhD research focused on graph-theoretic modeling and network-level feature extraction, with particular emphasis on neuronal morphology. During my postdoc at UVA, I developed AI tools and conducted neuroscientific experiments to study the propagation of pathological traveling waves of electrical activity in epileptic neural networks. Currently at MIT, I study how traveling waves and neural oscillations contribute to working memory, with the broader goal of uncovering the computational principles underlying cognition and brain function.  
 
