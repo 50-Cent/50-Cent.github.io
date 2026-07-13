@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Address. Contacts. Motto. Etc.
+subtitle: Hi
 
 profile:
   align: right
