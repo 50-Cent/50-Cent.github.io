@@ -12,7 +12,6 @@ profile:
     <p>46-6266, Miller Lab, MIT</p>
     <p>43 Vassar Street, MA, 02139</p>
     <p>tamal.isikol AT gmail.com</p>
-    <p>tamal AT mit.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,7 +23,7 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
