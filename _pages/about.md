@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Hi <\p>
+subtitle: Hi 
 
 profile:
   align: right
@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>46-6266, Miller Lab, MIT</p>
     <p>43 Vassar Street, MA, 02139</p>
-    <p>tamal.isikol@gmail.com</p>
-    <p>tamal@mit.edu</p>
+    <p>tamal.isikol AT gmail.com</p>
+    <p>tamal AT mit.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
