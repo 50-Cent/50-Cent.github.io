@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi
+subtitle: Exploring waves as the language of thought
 
 profile:
   align: right
